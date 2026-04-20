@@ -1,6 +1,6 @@
 # Hi, I'm Morgan 👋
 
-**Full Stack Engineer & Developer** with 4 years of experience building scalable and elegant software solutions.
+**Full Stack Designer/Engineer/Developer & Project Manager** with 4 years of experience building scalable and elegant software solutions.
 
 I transform ideas into fully functional applications by designing data flows, engineering system architectures, and implementing end-to-end solutions. Passionate about neural networks, blockchain technologies, and continuous learning.
 
