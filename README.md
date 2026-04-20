@@ -1,6 +1,6 @@
 # Hi, I'm Morgan 👋
 
-**Full Stack Engineer & Developer** with 3.5 years of experience building scalable software solutions in Agile/Scrum environments.
+**Full Stack Engineer & Developer** with 4 years of experience building scalable and elegant software solutions.
 
 I transform ideas into fully functional applications by designing data flows, engineering system architectures, and implementing end-to-end solutions. Passionate about neural networks, blockchain technologies, and continuous learning.
 
@@ -43,6 +43,13 @@ Agile/Scrum • Sequence Diagrams • Data Flow Design • Code Reviews • Unit
 ---
 
 ## 💼 Experience
+
+**Lead Software Engineer & AI Project Manager** @ Aesthetic Answer Co. Ltd., Thailand  
+*December 2025 - Current*
+
+- Designing and implementing full-stack AI solutions
+- Leading cross-functional teams through Impact/Effort & Impact/Urgency Matrix ideology 
+- Designing systems as proper spec MD files with complete data flow diagrams before implementation
 
 **Software Engineer & Developer** @ Biggest Lab Co. Ltd., Thailand  
 *June 2022 - December 2025*
