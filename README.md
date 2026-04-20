@@ -34,7 +34,7 @@ Impact/Effort & Impact/Urgency Matrix Ideology • Agile/Scrum • Sequence Diag
 
 | Project | Description |
 |---------|-------------|
-| **Whim** | The Ultimate SMB Business Intelligence System powered by AI |
+| **Whim** | The Ultimate Small-Medium Business Intelligence System powered by AI |
 | **BigVault** | Scalable cloud storage solution with integrated AI and fine-grain permissions |
 | **I-Challenge** | Real-time game-based learning platform combining textbooks and AI |
 | **Voice Chat Bot** | Python-based voice chat bot with real-time speech recognition and response |
