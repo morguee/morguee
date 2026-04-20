@@ -9,7 +9,7 @@ I transform ideas into fully functional applications by designing data flows, en
 ## 🛠 Tech Stack
 
 **Languages**
-Elixir • Erlang • Python • JavaScript • C • C++ • C# • Java • Solidity • Vyper
+Python • Dart • JavaScript • Elixir • Erlang • C • C++ • C# • Java • Solidity • Vyper
 
 
 
@@ -24,7 +24,7 @@ Smart Contracts • Ethereum • Polygon
 
 
 **Practices**
-Agile/Scrum • Sequence Diagrams • Data Flow Design • Code Reviews • Unit Testing
+Impact/Effort & Impact/Urgency Matrix Ideology • Agile/Scrum • Sequence Diagrams • Data Flow Design • Code Reviews • Unit Testing
 
 
 
@@ -34,6 +34,7 @@ Agile/Scrum • Sequence Diagrams • Data Flow Design • Code Reviews • Unit
 
 | Project | Description |
 |---------|-------------|
+| **Whim** | The Ultimate SMB Business Intelligence System powered by AI |
 | **BigVault** | Scalable cloud storage solution with integrated AI and fine-grain permissions |
 | **I-Challenge** | Real-time game-based learning platform combining textbooks and AI |
 | **Voice Chat Bot** | Python-based voice chat bot with real-time speech recognition and response |
@@ -63,7 +64,7 @@ Agile/Scrum • Sequence Diagrams • Data Flow Design • Code Reviews • Unit
 
 ## 🎯 Interests
 
-Functional Programming • AI Applications • Neural Networks • Blockchain Technology • UI/UX Design • Open-Source Contribution • Linear Algebra
+Object-Oriented Programming/Functional • AI Applications • Neural Networks • Blockchain Technology • UI/UX Design • Open-Source Contribution • Linear Algebra
 
 ---
 
